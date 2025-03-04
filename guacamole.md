@@ -4,7 +4,6 @@
 * Avacado
 * Lemon
 * Salt
-* Cumin
 * Lime
 
 ## Instructions
